@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MahmoudKhaledGamalElfouly216
 - 👀 I’m interested in Data Science, Big Data, Blockchain
-- 🌱 I’m currently learning Business Intelligence, Web development using php(laravel)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Deep learning, Business Intelligence, Web development using php(laravel)
+- 💞️ I’m looking to collaborate on a research paper.
 - 📫 How to reach me Mahmoud.Khaled21699@gmail.com
 
 <!---
